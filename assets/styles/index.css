@@ -1,0 +1,155 @@
+.avatar {
+    height: 70px;
+    width: 70px;
+  }
+  .btn-avatar {
+    height: 100px;
+    width: 100px;
+  }
+  .avatar-div {
+      float: left;
+      margin: 1%;
+  }
+
+  .back {
+      background-color: whitesmoke;
+      box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+                0 2px 2px rgba(0,0,0,0.11), 
+                0 4px 4px rgba(0,0,0,0.11), 
+                0 8px 8px rgba(0,0,0,0.11), 
+                0 16px 16px rgba(0,0,0,0.11), 
+                0 32px 32px rgba(0,0,0,0.11);
+  }
+
+  .background1 {
+    background-image: url("../images/backgrounds/back1.jpg");
+    background-color: white;
+  }
+  .background2 {
+    background-image: url("../images/backgrounds/back2.png");
+    background-color: white;
+  }
+  .background3 {
+    background-image: url("../images/backgrounds/back3.jpg");
+    background-color: white;
+  }
+  .background4 {
+    background-image: url("../images/backgrounds/back4.jpg");
+    background-color: white;
+  }
+  .background5 {
+    background-image: url("../images/backgrounds/back5.jpg");
+    background-color: white;
+  }
+
+  .margi {
+    margin: 1.4%;
+  }
+
+  .flashchat {
+    float: left;
+    /* height: 110px; */
+    height: 70px;
+    margin: 1%;
+  }
+
+  .custom-alert {
+    background-color: blue;
+  }
+
+  .user-avatar {
+    float: right;
+    height: 110px;
+    margin: 1%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+                0 2px 2px rgba(0,0,0,0.11), 
+                0 4px 4px rgba(0,0,0,0.11), 
+                0 8px 8px rgba(0,0,0,0.11), 
+                0 16px 16px rgba(0,0,0,0.11), 
+                0 32px 32px rgba(0,0,0,0.11);
+  }
+
+  .user-avatar-mini {
+    height: 50px;
+    margin: 5px;
+    border: black 1px solid;
+  }
+  .user-avatar-mini-tiny {
+    height: 25px;
+    margin: 1px;
+  }
+  
+  .user-name {
+    margin-top: 0%;
+    float: right;
+    font-size: 30px;
+  }
+  .note-editor {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .upload {
+    margin-top: 15px;
+  }
+
+  .line {
+    margin-top: 12px;
+    width: 91%;
+    border: 1px solid whitesmoke;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+                0 2px 2px rgba(0,0,0,0.11), 
+                0 4px 4px rgba(0,0,0,0.11), 
+                0 8px 8px rgba(0,0,0,0.11), 
+                0 16px 16px rgba(0,0,0,0.11), 
+                0 32px 32px rgba(0,0,0,0.11);
+  }
+  .date {
+    font-size: smaller;
+    color: slategray;
+  }
+
+  .fix {
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
+  }
+
+  .shadowy {
+    border: 0.5px solid white;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+                0 2px 2px rgba(0,0,0,0.11), 
+                0 4px 4px rgba(0,0,0,0.11), 
+                0 8px 8px rgba(0,0,0,0.11), 
+                0 16px 16px rgba(0,0,0,0.11), 
+                0 32px 32px rgba(0,0,0,0.11);
+  }
+
+  .text-des {
+    margin-top: 7px;
+  }
+
+  .smajl {
+    height: 35px;
+    width: 35px;
+  }
+
+  .private {
+    float: right;
+    height: 40px;
+    /* box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+                0 2px 2px rgba(0,0,0,0.11), 
+                0 4px 4px rgba(0,0,0,0.11), 
+                0 8px 8px rgba(0,0,0,0.11), 
+                0 16px 16px rgba(0,0,0,0.11), 
+                0 32px 32px rgba(0,0,0,0.11); */
+  }
+
+  .fix {
+    width: 100%;
+  }
+
+  .greska {
+    width: 20px;
+  }

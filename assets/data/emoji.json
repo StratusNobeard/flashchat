@@ -1,0 +1,33 @@
+{
+    "emojis" : [
+        {
+            "chars": ":)",
+            "src": "assets/images/smajl/smile.png"
+        },
+        {
+            "chars": ":D",
+            "src": "assets/images/smajl/laugh.png"
+        },
+        {
+            "chars": ":o",
+            "src": "assets/images/smajl/wow.png"
+        },
+        {
+            "chars": ":(",
+            "src": "assets/images/smajl/tear.png"
+        },
+        {
+            "chars": ":{",
+            "src": "assets/images/smajl/angry.png"
+        },
+        {
+            "chars": ";)",
+            "src": "assets/images/smajl/whink.png"
+        },
+        {
+            "chars": ":@",
+            "src": "assets/images/smajl/love.png"
+        }
+        
+    ]
+}
